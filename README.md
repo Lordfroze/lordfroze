@@ -7,7 +7,7 @@ Halo! Gue **Lord Froze** — backend developer yang doyan ngulik **Laravel**, **
 Sekarang lagi sibuk ngembangin **Laravel + AI** buat project **agribisnis**, biar dunia pertanian makin canggih.
 
 - 💻 Fokus di **Laravel Backend** sama **Docker**
-- 🎥 Aktif di **YouTube**: [Abang Froze](https://youtube.com/yourchannel)  
+- 🎥 Aktif di **YouTube**: [Pamong Techno](https://www.youtube.com/@pamongtechno7258)  
 - 🎮 Main **Black Desert Online SEA** (AP: 278 | DP: 328)
 
 ---
@@ -43,9 +43,9 @@ Sekarang lagi sibuk ngembangin **Laravel + AI** buat project **agribisnis**, bia
 
 ## 📬 Kontak
 
-📧 **frozeabang@gmail.com**  
-📷 **[YouTube](https://youtube.com/yourchannel)**  
-📸 **[Instagram](https://instagram.com/yourhandle)**
+📧 **yogaadipratama22@gmail.com**  
+📷 **[YouTube](https://www.youtube.com/@pamongtechno7258)**  
+📸 **[Instagram](https://www.instagram.com/yogatama1328/)**
 
 ---
 
