@@ -2,8 +2,8 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20GitHub!&fontSize=35)
 
-## 🎯 Tentang Gue
-Halo! Gue **Lord Froze** — backend developer yang doyan ngulik **Laravel**, **Node.js**, sama server-serveran!  
+## 🎯 Tentang Saya
+Halo! ane **Lord Froze** — backend developer yang doyan ngulik **Laravel**, **Node.js**, sama server-serveran!  
 Sekarang lagi sibuk ngembangin **Laravel + AI** buat project **agribisnis**, biar dunia pertanian makin canggih.
 
 - 💻 Fokus di **Laravel Backend** sama **Linux**
