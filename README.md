@@ -50,6 +50,6 @@ Sekarang lagi sibuk ngembangin **Laravel + AI** buat project **agribisnis**, bia
 ---
 
 ## 🎯 Live sites
-**[kebunkita](https://www.yogatama.my.id)**
+**[kebunkita](https://www.yoga.yepahusada.com)**
 
 > **“Kalo error? Jangan panik, buka terminal — kita lawan bareng!”** 🔥
